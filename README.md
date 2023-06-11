@@ -1,11 +1,10 @@
 [![Built with pwa–starter–kit](https://img.shields.io/badge/built_with-pwa–starter–kit_-blue.svg)](https://github.com/Polymer/pwa-starter-kit "Built with pwa–starter–kit")
 [![Build status](https://api.travis-ci.org/Polymer/pwa-starter-kit.svg?branch=master)](https://travis-ci.org/Polymer/pwa-starter-kit)
 
-> ## Status: No longer under development
+> ## Status: ACTIVE
 > 
-> This  project is no longer under development.
+> This  project is under ACTIVE development.
 >
-> If you're interested in continuing to use PWA Starter Kit, feel free to fork and modify it as you like.
 >
 > If you want to start a new application project using LitElement, the [open-wc application scaffold generator](https://open-wc.org/init/) is one good starting point.
 
